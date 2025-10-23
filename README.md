@@ -86,7 +86,7 @@ I also enjoy working with **Angular** for frontend development and love **compet
 
 ### 🏆 LeetCode Badges
 
-<img src="https://leetcode.com/medal/?showImg=0&id=4240571&isLevel=false" height="100">
-<img src="https://leetcode.com/medal/?showImg=0&id=3640936&isLevel=false" height="100">
+<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" height="100">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" height="100">
 
 
