@@ -84,36 +84,3 @@ I also enjoy working with **Angular** for frontend development and love **compet
 
 </div>
 
----
-
-<!-- Trophies Start here-->
-
-<h2>GitHub Profile Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rania&theme=dracula&margin-w=55)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<!-- GitHub Stats -->
-
-<h2>GitHub Profile Stats</h2>
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rania&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rania&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p>
-
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rania&theme=radical)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rania&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rania&theme=radical)
-
-[![Rania's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rania&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![@rania's Holopin board](https://holopin.io/api/user/board?user=rania)](https://holopin.io/@rania)
-
