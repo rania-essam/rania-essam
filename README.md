@@ -19,10 +19,7 @@ I also enjoy working with **Angular** for frontend development and love **compet
 💻 **What I Do:**  
 - .NET Backend Developer experienced in **C#**, **ASP.NET Core**, and **Entity Framework**.  
 - Familiar with **Angular** for frontend development.  
-- Worked as a **DEPI Full Stack .NET Intern** gaining hands-on experience in both backend and frontend stacks.  
+- Worked as a **DEPI Full Stack .NET Intern**, gaining hands-on experience in backend and frontend development.  
 - Passionate about **Problem Solving**, **Algorithms**, and **System Design**.  
-- Competitive Programmer active on [Codeforces](#), [Leetcode](#), [Atcoder](#), and [Vjudge](#) — (you can share your real links and I’ll update them!).  
-- Open to **collaborate on backend and open-source projects** 🎉  
-
-🎯 **Highlights:**  
-- Currently enhancing my skills in **clean architec**
+- Competitive Programmer active on  
+  [Codeforces](https://code)
