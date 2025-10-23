@@ -66,13 +66,22 @@ I also enjoy working with **Angular** for frontend development and love **compet
 
 <h2>Languages & Tools</h2>
 <div>
+  <!-- C# -->
+<img height="100" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+
+<!-- .NET -->
+<img height="100" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
+
+<!-- SQL Server -->
+<img height="100" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/C.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/CPP.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JAVA.png" />
+
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/git.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vscode.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/clion.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/ps.png" />
+
 </div>
 
 ---
