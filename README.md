@@ -52,11 +52,11 @@ I also enjoy working with **Angular** for frontend development and love **compet
 <!-- Socials-->
 <h2>Socials</h2>
 <p>
-  <a href="https://x.com/your_twitter"><img width="66px" alt="Twitter" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
+  <a href="https://x.com/raniaa_e"><img width="66px" alt="Twitter" title="Twitter" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(1).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img width="66px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
+  <a href="https://www.linkedin.com/in/rania-essam-08a249359/"><img width="66px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/twitter_2v%20(5).png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your-email@gmail.com"><img width="66px" alt="Gmail" title="Gmail" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/3d-logo-Gmail.png"/></a>
+  <a href="mailto:raniaessam373@gmail.com"><img width="66px" alt="Gmail" title="Gmail" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Social_Icons/3d-logo-Gmail.png"/></a>
 </p>
 <!-- Socials End-->
 
