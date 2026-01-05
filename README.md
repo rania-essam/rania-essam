@@ -8,8 +8,7 @@
 
 <!-- Programmer End Here -->
 
-I’m **Rania**, a **.NET Backend Developer** passionate about building efficient, scalable, and reliable systems.  
-I also enjoy working with **Angular** for frontend development and love **competitive programming** & solving challenging problems.
+Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate about building efficient, scalable, and reliable systems with .NET and Angular. I enjoy solving challenging problems through competitive programming and love collaborating on projects—always happy to work with others and learn together..
 
 <!-- Greetings End -->
 
