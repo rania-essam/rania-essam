@@ -33,7 +33,11 @@ Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate
 - Currently enhancing my skills in **clean architecture**, **REST APIs**, and **database optimization**.  
 
 🌱 **Learning Journey:**  
-- Diving deeper into **.NET 8**, **asynchronous programming**, and **software design patterns**.  
+ - Exploring .NET 10 features, dependency injection, and design patterns for maintainable, robust applications.
+
+ - Deepening knowledge in Angular, TypeScript, and modern frontend-backend integration.
+
+ - Practicing competitive programming to refine problem-solving and algorithmic thinking.
 
 ✨ **Fun fact:** I love coding marathons and debugging more than coffee ☕!  
 <!-- Talks End here -->
