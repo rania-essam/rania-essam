@@ -7,8 +7,7 @@
 <img align="right" width=180px src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Images/coding.gif">
 
 <!-- Programmer End Here -->
-
-Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate about building efficient, scalable, and reliable systems with .NET and Angular. I enjoy solving challenging problems through competitive programming and love collaborating on projects—always happy to work with others and learn together..
+Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate about building efficient, scalable, and reliable systems with .NET and Angular. I also have experience exploring Power BI for data visualization and reporting. I enjoy solving challenging problems through competitive programming and love collaborating on projects—always happy to work with others and learn together.
 
 <!-- Greetings End -->
 
@@ -84,6 +83,8 @@ Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/git.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vscode.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/clion.png" />
+<img height="100" src="https://logos-world.net/power-bi-logo/" />
+
 
 </div>
 
