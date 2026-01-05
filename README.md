@@ -83,7 +83,7 @@ Hi, I’m Rania! I’m a Fullstack .NET Developer in training at ITI, passionate
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/git.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vscode.png" />
 <img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/clion.png" />
-<img height="100" src="https://github.com/rania-essam/OOP-Notes/blob/main/download.jpg" />
+<img height="70" src="https://github.com/rania-essam/OOP-Notes/blob/main/PowerBI.PNG" />
 
 
 </div>
